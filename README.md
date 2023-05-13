@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @2vijay96
-- 👀 I’m interested in developer side...
-- 🌱 I’m currently learning data science...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ vijaybossb@gmail.com...
+- 👀 I’m interested in Data Science, Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently learning Machine Learninng for Data Science.
+- 💞️ I’m looking to collaborate on Data Science Projects.
+- 📫 How to reach me @ www.linkedin.com/in/
+vijay-ps-bb5937257
 
 <!---
 2vijay96/2vijay96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
